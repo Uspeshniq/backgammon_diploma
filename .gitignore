@@ -1,0 +1,8 @@
+# Build output from dotnet build and dotnet test (rebuilt every time).
+bin/
+obj/
+
+# Editor settings for Visual Studio and Rider.
+.vs/
+.idea/
+*.user

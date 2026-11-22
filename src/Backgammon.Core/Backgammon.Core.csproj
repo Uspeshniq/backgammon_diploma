@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Pure game logic: rules, dice, modifiers, commands, match. Must never reference Godot. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Backgammon.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
